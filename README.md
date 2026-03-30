@@ -52,8 +52,8 @@
 </p>  
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=yeongkyo1997&show_icons=true&count_private=true&theme=swift" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongkyo1997&layout=compact&hide_border=true&theme=swift" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=yeongjava19997&show_icons=true&count_private=true&theme=swift" height="150">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongjava19997&layout=compact&hide_border=true&theme=swift" height="150">
 </div>
 
 
