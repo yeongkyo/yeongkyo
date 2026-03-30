@@ -51,9 +51,7 @@
 <img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/github-icon.svg">
 </p>  
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=yeongjava1997&show_icons=true&count_private=true&theme=swift" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongjava1997&layout=compact&hide_border=true&theme=swift" height="150">
-</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongjava1997)](https://solved.ac/yeongjava1997/)  
+
 
 
